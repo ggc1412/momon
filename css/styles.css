@@ -68,6 +68,10 @@ ul {
   margin-top: 25px;
 }
 
+li{
+  font-size: 1.3em;
+}
+
 .bgImage{
   position: absolute;
   top: 0;
